@@ -1,6 +1,6 @@
 # PRACTICA 1
- ## ¿Que es git?
- Git es un sistema de control de versiones que permite a los desarrolladores gestionar y rastrear cambios en el código fuente a lo largo del tiempo. 
+## ¿Que es git?
+Git es un sistema de control de versiones que permite a los desarrolladores gestionar y rastrear cambios en el código fuente a lo largo del tiempo. 
 
 ## ¿En que consiste la metolodgia GitFlow?
 GitFlow es una metodología de desarrollo basada en Git que organiza el trabajo en ramas, facilitando la colaboración y la gestión de versiones.
@@ -10,7 +10,7 @@ Esta estructura permite un flujo de trabajo claro, donde se pueden desarrollar, 
 ## ¿Porque hemos realizado el proyecto en GitFlow?
 Hemos utilizado GitFlow ya que agiliza y distribuye la carga de trabajo a la hora de hacer proyectos
 
- ## Trabajo
+## Trabajo
 Vemos que iniciamos el flow init y lo subimos al remoto
 
 ![](OneDrive/Escritorio/PracticaUD1Despliegue/fotos/foto1.png)
