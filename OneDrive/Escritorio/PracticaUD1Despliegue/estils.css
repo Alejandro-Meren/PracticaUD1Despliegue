@@ -32,10 +32,47 @@ nav a:hover {
     color: black;
 }
 
+/* Estils generals per la secció content */
 .content {
     padding: 20px;
+    margin: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
+
+/* Estil per l'encapçalament (h2) */
+.content h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Estil per al paràgraf amb l'ID demo */
+#demo {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Estil per al botó */
+button {
+    background-color: #4CAF50; /* Verd per al botó */
+    color: white;              /* Color del text en blanc */
+    padding: 10px 20px;        /* Espai al voltant del text */
+    font-size: 16px;
+    border: none;              /* Sense contorn */
+    border-radius: 5px;        /* Arrodoniment de les cantonades */
+    cursor: pointer;           /* Canvi del cursor en passar per damunt */
+    transition: background-color 0.3s ease;
+}
+
+/* Canvi de color quan es passa per damunt del botó */
+button:hover {
+    background-color: #45a049; /* Verd més fosc */
+}
+
 
 footer {
     background-color: #333;
@@ -46,3 +83,15 @@ footer {
     width: 100%;
     bottom: 0;
 }
+.contenedor {
+    display: flex;
+    align-items: center;
+}
+
+.contendor > img {
+    width: 25%;
+    height: 25%;
+
+
+}
+
