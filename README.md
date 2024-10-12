@@ -1,6 +1,6 @@
 # PRACTICA 1
 
-## ¿En que consiste la metolodgia GitFlow?
+## ¿Que es Git?
 Git es un sistema de control de versiones que permite a los desarrolladores gestionar y rastrear cambios en el código fuente a lo largo del tiempo. 
 
 ## ¿En que consiste la metolodgia GitFlow?
@@ -11,7 +11,7 @@ Esta estructura permite un flujo de trabajo claro, donde se pueden desarrollar, 
 ## ¿Porque hemos realizado el proyecto en GitFlow?
 Hemos utilizado GitFlow ya que agiliza y distribuye la carga de trabajo a la hora de hacer proyectos
 
-## ¿En que consiste la metolodgia GitFlow?
+## Trabajo
 Vemos que iniciamos el flow init y lo subimos al remoto
 
 ![](OneDrive/Escritorio/PracticaUD1Despliegue/fotos/foto1.png)
